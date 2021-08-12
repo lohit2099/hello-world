@@ -1,2 +1,7 @@
 # hello-world
-Just another repository 
+
+
+Hi Everyone !
+
+Lohit here. Im interested in building IOT based products,
+using the latest microcontrollers based on arduino programming.
